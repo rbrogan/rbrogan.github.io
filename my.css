@@ -1,0 +1,71 @@
+.title-span
+{    
+     font-family:        sans-serif;
+     font-weight:        bold;
+     font-size:          150%;
+     letter-spacing:     1px;
+}
+
+.section-name-span
+{    
+     font-family:        sans-serif;
+     font-weight:        bold;
+     color:              #b8b8b8;
+     letter-spacing:     1px;     
+}
+
+body
+{
+     background: #f0f0f0;		
+}
+
+img
+{
+     width: auto;
+}
+
+#title
+{
+     text-align: center;
+}
+
+#main
+{
+	max-width: 760px;
+	height:auto;
+     margin: 0 auto;
+	border-style:solid;
+	border-color:gray;
+	border-width:3px;
+	background-color: #ffffff;		
+     padding: 33px 33px 33px 33px;
+}
+
+.section-outer
+{
+     margin: 1px;
+     padding: 1px;
+}
+
+.section-left
+{
+     vertical-align: top;
+     max-width: 120px;
+     text-align: right;
+     padding-right: 8px;
+     padding-top: 6px;
+}
+
+.section-right
+{
+     vertical-align: top;
+     max-width: 600px;
+     text-align: left;
+}
+
+ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
