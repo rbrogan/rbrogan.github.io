@@ -14,6 +14,14 @@
      letter-spacing:     1px;     
 }
 
+.subsection-title-span
+{    
+     font-family:        sans-serif;
+     font-weight:        bold;
+     font-size:          110%;
+     letter-spacing:     1px;
+}
+
 body
 {
      background: #f0f0f0;		
@@ -53,7 +61,7 @@ img
      max-width: 120px;
      text-align: right;
      padding-right: 8px;
-     padding-top: 6px;
+     padding-top: 0px;
 }
 
 .section-right
