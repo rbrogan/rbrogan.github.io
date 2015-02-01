@@ -6,6 +6,14 @@
      letter-spacing:     1px;
 }
 
+.subtitle-span
+{    
+     font-family:        sans-serif;
+     font-weight:        bold;
+     font-size:          100%;
+     letter-spacing:     1px;
+}
+
 .section-name-span
 {    
      font-family:        sans-serif;
