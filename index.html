@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Be Purposefully Stupid</title>
+<title>Energizing Code</title>
 <link rel="stylesheet" type="text/css" href="my.css">
 </head>
 <body>
 <div id = "main">
 <div id = "title">
-<span class = "title-span">Be Purposefully Stupid</span>
+<span class = "title-span">Energizing Code</span><br>
+<span class = "subtitle-span">Evolution and Devolution</span>
 </div>
 <table>
 <tr class="section-outer">
@@ -15,16 +16,16 @@
 <p><span class="section-name-span">I.</span></p>
 </td>
 <td class="section-right">
-<p style="font-size:110%"><i>"But when the vessel is sinking, you come to me and hoist the sails." &mdash; Epictetus, The Discourses, III.2</i></p>
-<p>What do you call a shortcut that takes you to a dead end?</p>
-<p>There is always the drive to be better and faster. We take shortcuts in reasoning. Much of the time that works fine (or we would not do it). The problem is that it does not work all the time. Shortcuts are sometimes mistakes. Not until later do we find that out. We end up spending too much time backtracking and debugging.</p>
+<p>What causes code to change in the ways that it does? Let us invent something and see.</p>
+<p>Energy is stuff that makes for change. Let us say that when code is energized, that it causes change. What kind of change? There are two kinds of changes: evolutionary and devolutionary. Evolutionary changes are for the better and devolutionary changes are for the worse.</p>
 <p>
-The software business (and sometimes we, ourselves) very often puts time pressure on us. This causes us to be in a "hard driving" mode. That, in turn, causes us to both make mistakes and use up our time in fixing them. Time pressure goes up further. No time to think? No, we can see through that.</p>
+When code has evolved as far as it can, then it is mature. When code has devolved too far, then it falls into disuse. In both cases, the code no longer gets energized and nothing changes.</p>
 <p>
-OK, what to do? Be purposefully stupid. Act as if you do not know, that way you cannot keep taking shortcuts. And then? Well, a stupid mistake is caused by doing something stupid. So, ask stupid questions and get to the root.
+Now, what things can put energy into code and make it be energized? Those things will be any activity associated with code changes: inspections, tests, user feedback, etc. 
+From these, energy gets put into the code and the code may then throw off light, <i>yield information for making changes</i>.
 </p>
 <p>
-Of course, you cannot be always doing this, but if you are smart about things, then you will do it at times when it is right.</p>
+If you want to promote code evolution and avoid code devolution, then this notion of energizing code can be useful. You can ask yourself whether your code is mature or not. If it is not, then the question is where and how to invest your energy, so as to yield light.</p>
 </td>
 </tr>
 
@@ -33,19 +34,15 @@ Of course, you cannot be always doing this, but if you are smart about things, t
 <p><span class="section-name-span">II.</span></p>
 </td>
 <td class="section-right">
-<p>Do you ever have a good day of coding where everything flows and then wonder: Why can it not be like this every day? Ever spend hours on debugging only to find the root cause to be something incredibly stupid? Why does that happen?</p>
+<p>Why should writing tests help anything if the code already works? Why can I get a prototype up-and-running quickly, and it works fine, but then breaks down? These are questions I ask myself. It is not enough that something be so; I wonder <i>why</i> it is so and whether it could be otherwise.</p>
 
-<p>Well, what does that mean: to make a stupid mistake? It means we know enough not to make the mistake <i>at the time we make it</i> and do not use what we know. Why?</p>
+<p>Lately, I have been working on a project that is a utility library. Normally, I write utility code as I need it, and when it breaks, I fix it. But then I thought: If this code is going to be used by other people, then I had better make explicit tests, even though it already works. What I found was that as I wrote the tests, the code evolved.</p>
 
-<p>It is not because we are bad people! We have only so much mental energy; there are tradeoffs. We often purchase quickness but give up perception. When things are pretty much the same it is a waste of time to redo everything.</p>
+<p>How to explain this? Assume there is some "what" that is making this happen. OK, <i>what</i> is testing doing that is causing the code to evolve? "Energy" came to mind as the "what" that causes change. Picture the code glowing, it pulses light, the light cools and fades, and see now the code is changed.</p>
 
-<p>But sometimes it does not work out and we make mistakes. It would be nice to avoid those errors, but realistically, they are going to happen. Perhaps instead we can put our efforts into getting better at fixing things.</p>
+<p>The energy notion does help explain why prototypes stop working. As a prototype gets used, it gets energized such that the user sees their way to further use. Eventually use goes beyond what is supported. Perhaps changes will get made to support further use, though those changes will often be hacks (i.e. devolution).</p>
 
-<p>Let's think about this. Why does it feel like it takes longer than it should to debug things? Because once we have done it, it is not some revelation but rather something obvious and simple and stupid; <i>because we already knew it</i>. We are not getting enough information for the time we put in. Something is wrong.</p>
-
-<p>What is it? Most likely, the same thing that caused the bugs to begin with. That is, being in a hard driving mode, not using our knowledge, not being smart about things. We must look into the code, be cogent, and use what we know.</p>
-
-<p>OK, when is it the case that we must use our knowledge explicitly? When we teach and when we learn. And so, the trick is to be purposefully stupid and teach ourselves to use what we already we know.</p>
+<p>So now it makes more sense why things like tests would be worthwhile. They energize the code in a staged way that promotes evolution and maturity before the code gets to the end-user. I would go so far as to say that tests may energize code before it even gets tested. How so? You anticipate it being tested. What really is getting energized here is you.</p>
 
 </td>
 </tr>
