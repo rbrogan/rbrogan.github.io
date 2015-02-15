@@ -80,6 +80,49 @@ img
      text-align: left;
 }
 
+p.index
+{
+     text-align: center;
+}
+
+a.index
+{
+     font-size: 110%;
+	text-decoration: none;
+	font-weight:bold;
+	letter-spacing:2px;
+	text-align:center;
+     font-family: serif;
+     margin: 6px;
+     padding: 3px;
+}
+
+a.index:visited
+{
+	color:#000000;
+}
+a.index:link
+{
+	color:#000000;
+}
+
+a.index:hover
+{
+	color:#202020;
+	border-color:black;
+     text-decoration: underline;
+	border-width:2px 2px 2px 2px;     
+     padding: 2px;
+}
+
+a.index:active
+{
+	color:white;
+	border-color:white;
+	background-color:black;
+}
+
+
 ul
 {
     list-style-type: none;
