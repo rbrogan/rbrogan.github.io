@@ -38,6 +38,21 @@
      letter-spacing:     1px;
 }
 
+th.inner
+{
+     text-align:center;
+     border: 1px dotted black;
+     padding: 4px;
+}
+
+td.inner
+{
+     vertical-align: top;
+     border: 1px dotted gray;
+     padding: 4px;     
+}
+
+
 body
 {
      background: #f0f0f0;		
