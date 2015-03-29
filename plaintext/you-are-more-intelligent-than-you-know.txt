@@ -1,0 +1,59 @@
+You Are More Intelligent Than You Know
+======================================
+
+I.
+
+It is not good for you, as a technologist, to be mystified by things
+unfamiliar. Why? Because mystification undermines confidence. Without
+confidence it is difficult to form up intentions, carry them out, and
+get work done.
+
+Sure, it takes knowledge to use technology, but more and more study is
+not the solution. What then? Counteract mystification by (skeptically)
+saying the following:
+1. "There can be only so much to it."
+— There must be some number you can put on it.
+2. "It must be like-to something I know already. This thing can be only
+so different."
+— If it is a language then it must be comparable to another language you
+know.
+3. "It must be grounded on top of something I know."
+— It makes system calls. It draws pixels. It writes to a database.
+
+You can make intelligent guesses, because you already know plenty. Those
+guesses can frame up what you learn further. Knowing everything is not,
+and cannot actually be, important. The real way to get somewhere is to
+have confidence and make good use of your intellect.
+
+II.
+
+"Now, here, you see, it takes all the running you can do, to keep in the
+same place. If you want to get somewhere else, you must run at least
+twice as fast as that!" — The Red Queen, to Alice.
+
+Is it really the case that you must run as fast as you can to keep your
+place? Yes, it seems to be so. No, that does not feel right. Running as
+fast as you can is not very intelligent, so why should it work? Or does
+nothing work? Something must be wrong here.
+
+Supposedly, technology is advancing "so fast". And what should that
+mean? It should mean that over the course of decades, technology must
+have advanced very far indeed. But has it really advanced that much? Are
+we now orders of magnitude better at implementing C, UNIX, Emacs? We
+cannot be, otherwise we would not maintain legacy systems, but rewrite
+them, and with ease. If we are not using something decades-old then we
+are using something like it or building directly on top of it (just
+about). Really, things have not moved so far that the claim that things
+are advancing "so fast" is supportable. Further, if things were
+advancing that fast then our ability to keep up ought to have likewise
+advanced. If you are running as fast as you can, you have to wonder how
+much good it is doing you.
+
+What then? Standing still is not the way. We want a way to advance
+without having to cover everything, all change. Well, we already have a
+way — we have our intellects. How much we undervalue them! Intelligence
+is what lets us see many things by looking at a few things and get done
+much by doing little. This describes intelligence, yet it also describes
+technology; that is no coincidence. Technology comes from putting
+intelligence into the world. The best way to advance technology is to be
+intelligent about it, and that is within your power to do.

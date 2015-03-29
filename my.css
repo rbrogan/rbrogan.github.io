@@ -6,6 +6,14 @@
      letter-spacing:     1px;
 }
 
+.page-span
+{    
+     font-family:        sans-serif;
+     font-weight:        bold;
+     font-size:          150%;
+     letter-spacing:     2px;
+}
+
 .subtitle-span
 {    
      font-family:        sans-serif;
@@ -144,6 +152,49 @@ a.index:active
 	border-color:white;
 	background-color:black;
 }
+
+p.bottom-menu
+{
+     text-align: center;  
+     font-family: monospace;     
+}
+
+a.bottom-menu
+{
+     font-size: 120%;
+	text-decoration: none;
+	font-weight:normal;
+	letter-spacing:3px;
+	text-align:center;
+     margin: 6px;
+     padding: 3px;
+}
+
+a.bottom-menu:visited
+{
+	color:#000000;
+}
+a.bottom-menu:link
+{
+	color:#000000;
+}
+
+a.bottom-menu:hover
+{
+	color:#202020;
+	border-color:black;
+     text-decoration: underline;
+	border-width:2px 2px 2px 2px;     
+     padding: 2px;
+}
+
+a.bottom-menu:active
+{
+	color:white;
+	border-color:white;
+	background-color:black;
+}
+
 
 
 ul

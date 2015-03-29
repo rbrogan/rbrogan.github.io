@@ -1,0 +1,59 @@
+Make More Work For Yourself, In Order To Have Less
+
+I.
+
+Do you have difficulty with finishing your projects? If so, there is a
+good chance it is because (1) you took on too much unnecessary work and
+(2) you are lacking in project management skills, not software
+development skills.
+
+You wind up with too much unnecessary work when you say "yes" to
+features that you should say "no" to. OK then, how can you get yourself
+to say "no"? Make yourself not want to take on the work right at the
+beginning. Make a rule such that taking on the feature will mean an
+explicit commitment to do additional (boring) work:
+
+1. Use cases
+2. Documentation
+3. Tests
+
+Either this work must be done in order for you to move on to your next
+feature or you must abandon the feature. If you stick to this rule, then
+you will be forced to seriously consider features before you take them
+on. When you do that, you will find yourself saying "no" to features.
+That is good. More important work will still make you say "yes" and less
+important work will get set aside. You will be in a good position to
+have a successful project.
+
+II.
+
+There are many software engineering practices we know that (supposedly)
+we ought to follow, but then again what do we really know? After all, it
+is possible to write code and get a working program without them.
+
+So we go ahead and start hacking and making projects. It can be fun and
+work great, for a while. Then there gets to be problems. We try to solve
+them with more software. That helps some, but not enough. There is
+something wrong in our approach, in how we think.
+
+We can figure out the reasons why things do not turn out. They must be
+simple, because we never had many reasons why things ought to turn out.
+
+OK, we can see an association between projects at scale getting done and
+those boring practices. Why so? Well, let us see if we can we think of
+other boring practices that work. (The reason why they work may be the
+same.) How about: "Measure twice, cut once." Measure right the first
+time, and the second is a waste, but who can be right all the time?
+
+Well, OK, again: Why not follow the boring practices? Really, it is
+because they are boring. Why do we keep writing more code? Because
+writing code is more fun. Maybe we rationalize it by saying that the
+boring practices are worthless and the (extra) features are necessary.
+But let's be real here, that is not true.
+
+Doing things on a simple-minded basis alone is not going to work at
+scale. It is not going to work, so there is no point in doing it. What
+then? Do the boring things. Better to do them, and have things turn out,
+than to do interesting work that accomplishes nothing.
+
+Do that boring work and give your project depth.

@@ -1,0 +1,60 @@
+A Strategy for Getting Projects Done
+====================================
+
+I.
+
+Many developers have plenty of skill, industry, and good ideas but want
+the ability to finish projects. What follows is a project strategy that
+can help.
+
+PHASE ONE: Plan
+1. Scope out what the project is about. This is whatever you can think
+of.
+2. Cut scope down to something absurdly basic and modest. If this does
+not represent a D- grade, then the scope needs to be cut down more. This
+is what you are committed to delivering.
+3. Set a deadline for how long you will spend on the project as a whole.
+This deadline will not move. The product is whatever the project has
+produced by that deadline.
+
+PHASE TWO: Pass
+Focus efforts only on hitting the basic commitment. Once you are done,
+your project has a passing grade (albeit a poor one).
+
+PHASE THREE: Perform
+Now look over what work is left and how much time is left. Choose to do
+the work that gets the best results for the time spent. You want to
+bring the grade of your project up as high as possible. When time is up,
+you are done and the project is done.
+
+II.
+
+Why is it hard to finish software projects? Let us first look at what
+that means. If you do a software project that means you form up an
+intention to write some software and you carry out that intention. When
+the software is finished, the project is finished. When the project is
+finished, the software is finished. You do the project and you make the
+software. Why is that so hard?
+
+It is hard because you do not really know what you are doing. The nature
+of software is such that you cannot really know. Software is always
+changing, always expanding out. It is doing this even while you are
+working on it. It is doing this because you are working on it. This why
+projects go on and on and you wonder what you have to do to make it be
+finished.
+
+Suppose there is a solution. What does that mean? You are able to know
+what you are going to do and how you are going to do it. You have
+something that you can follow through on and get done. Yet somehow at
+the same time you have to also be able to not know what you are doing or
+how you are going to do it.
+
+The solution is this: Make the project be to finish something basic you
+know about and then continue working up to a deadline. Make the software
+be that basic minimum plus something else. What else? That is down to
+how you spend the time up to the deadline. It will be how good you can
+make it.
+
+And suppose the project ends and there is more work to be done? There
+can always be more projects for you to do. You can build out your
+program over time.

@@ -1,0 +1,55 @@
+What Made OO Be Successful
+==========================
+
+I.
+
+To foresee what will work in times to come, it is well to understand why
+what has worked, did work. Within software engineering, I cannot think
+of a technology that has had a greater impact on mass consciousness than
+object-orientation.
+
+OO is successful based on how it works psychologically. Theoretically,
+people can solve the same problems with other technologies; we can
+imagine an alternate universe with some other paradigm being dominant.
+In practice, for various reasons, people do not use other technologies
+to nearly the same degree as OO.
+
+OO is successful because many people use it. These people use OO
+concepts and language to intuitively factor the world and describe a
+future. They form intentions to make software and communicate their
+thinking with other people by using OO terms. There is more to making
+software than typing on a keyboard; that is why OO is successful.
+
+II.
+
+Say we see this guy sitting at a computer, reading and writing code.
+Someone comes over and they speak. The guy goes back to work for a bit.
+He stops and goes to a meeting where he sits around a table and
+discusses things; he gets up at a white board and draws pictures and
+labels things. This is making software.
+
+Nowhere here does OO appear to be necessary, so how can we account for
+its success? What difference does it make using OO?
+
+First, the code on the screen means what it says; the program reflects a
+model that reflects the world. When two people talk, they talk along the
+lines of responsibilities and interfaces. In a meeting, people who
+better know what the software needs to do can communicate it in a
+language very close to the one used to write the code. This matters.
+
+These are consequences of people using OO but they are not a good enough
+reason as to why. What are people doing different with OO versus other
+techs? They are tapping into the simple and common wetware they already
+have.
+
+An object is both code and data, but also neither. This means people can
+talk about objects and yet not have to talk about either data or code.
+Ghost first, then machine; that is how people like to think. If
+something happened then that means someone did it; if work has to get
+done then someone has to do it. OO fits with that thinking very well:
+Think up an object that will do the thing and figure out the rest later.
+This is very important for forming intentions. People form intentions in
+order to do things.
+
+People use OO because they are already able; and because they are able,
+it works.

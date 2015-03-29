@@ -1,0 +1,56 @@
+To Evolve Your Code, Let Names Change
+=====================================
+
+I.
+
+The names of things in code reflect what those things do. For code to
+evolve, the things in it must change; often, those changed things ought
+to change their names to reflect what they have come to do. If you do
+not promote name changes when needed, then natural development will
+become stifled.
+
+What then, can you do to promote name changes? Here are three things:
+1. Give things abstract names. Call the thing Alpha. When you know
+better what it will do, you can give it a better name.
+2. Write tests; make commits. If you do this then you can make changes
+at less cost and risk.
+3. Make efforts to get good at using tools for renaming. You may tend to
+avoid this because (a) you have to learn usage and (b) you fear making a
+mistake could be costly. But if you have done #2 then you have nothing
+to fear.
+
+If you make a name change when you feel it is appropriate, it may cost
+you some time and effort in the short run, but in the long run your
+development will have better flow.
+
+II.
+
+Names carry information. We strive for readable code. As far as names
+go, readability means the role or purpose of a thing is reflected by its
+name. Say again, the name of a thing informs us as to what it does and
+what it is for. This information is conveyed by the name to the person
+reading the code.
+
+Now, if you knew what everything was to be ahead of time then you could
+devise names at the beginning and never have to change them. But that is
+unrealistic. Code has to be refactored.
+
+Imagine that your code is a number. Say it is 130. That number has some
+factors. The names of the factors are: 2, 5, 13. Now imagine that your
+code wants to naturally evolve to another number. Say that is 140. The
+factors are different. If you insist on keeping 13 as a factor you will
+never get to 7 and you will never get your code where it wants to get
+to.
+
+Now think about your factors as software components with names that
+reflect what they do. If you limit your refactoring to only be
+aggregation or adding new components, if you prohibit changing what
+things do because you are unwilling to change the name, then you may
+well be restricting the natural development of your code.
+
+Why do that? Because we act as if we know what are doing in order to be
+able to form a closure in our minds and get going with doing something.
+The problem comes from taking that too far. The reality is that we learn
+as we work; new information is accounted for by changes to the code.
+Changes do have costs but some change will happen anyways, even if you
+do not want to have to pay.
