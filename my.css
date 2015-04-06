@@ -11,7 +11,7 @@
      font-family:        sans-serif;
      font-weight:        bold;
      font-size:          150%;
-     letter-spacing:     2px;
+     letter-spacing:     3px;
 }
 
 .subtitle-span
@@ -45,6 +45,8 @@
      font-size:          110%;
      letter-spacing:     1px;
 }
+
+
 
 th.inner
 {
@@ -202,4 +204,30 @@ ul
     list-style-type: none;
     padding: 0px;
     margin: 0px;
+}
+
+p.preview
+{
+     text-align: center;
+     font-size: 90%;
+	text-decoration: none;
+	font-weight:bold;
+	letter-spacing:2px;
+	text-align:center;
+     font-family: sans-serif;
+     margin: 6px;
+     padding: 3px;
+}
+
+p.preview-title
+{
+     text-align: center;
+     font-size: 110%;
+	text-decoration: none;
+	font-weight:bold;
+	letter-spacing:2px;
+	text-align:center;
+     font-family: serif;
+     margin: 6px;
+     padding: 3px;
 }
