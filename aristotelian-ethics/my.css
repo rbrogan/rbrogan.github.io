@@ -245,6 +245,43 @@ a.bottom-menu:active
 	background-color:black;
 }
 
+a.page-nav-menu
+{
+     font-size: 120%;
+	text-decoration: none;
+	font-weight:normal;
+	letter-spacing:3px;
+	text-align:center;
+     margin: 6px;
+     padding: 3px;
+}
+
+a.page-nav-menu:visited
+{
+	color:#000000;
+}
+a.page-nav-menu:link
+{
+	color:#000000;
+}
+
+a.page-nav-menu:hover
+{
+     font-size: 120%;
+	text-decoration: underline;
+	font-weight:bold;
+	letter-spacing:3px;
+	text-align:center;
+     margin: 6px;
+     padding: 3px;
+}
+
+a.page-nav-menu:active
+{
+	color:white;
+	border-color:white;
+	background-color:black;
+}
 
 
 ul
@@ -304,4 +341,14 @@ p.preview-title
 {
      display: table-cell;
      text-align: right;
+}
+
+.test
+{
+  width:200px;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0px auto;
+  border:1px red solid;
 }
